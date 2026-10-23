@@ -39,7 +39,7 @@ ligas e torneios, e cada tela tenta levar a pessoa à próxima questão pelo cam
 | Estudo | Simulados, flashcards, caderno de erros, objetivos e Modo Foco |
 | Redação | Corretor de redação com IA, que também lê redação escrita à mão por foto |
 | Jogo | XP e níveis, sequência de dias, conquistas, missões diárias, prova chefe, avatar e loja de itens |
-| Social | Ranking, ligas, torneios, times, convites, perfil público e integração com o Discord |
+| Social | Duelo entre alunos, ranking, ligas, torneios, times, convites, perfil público e integração com o Discord |
 | Negócio | Planos com Pix, notificações push, resumo semanal e relatório em PDF |
 
 | Simulado | Redação |
@@ -91,7 +91,8 @@ telas.
 | Testes | Vitest |
 | Erros | Sentry |
 
-Programo com o Claude como parceiro, do primeiro rascunho ao teste.
+Programo com agentes de código no dia a dia (Claude Code, Cursor, OpenCode e Kimi), do
+primeiro rascunho ao teste.
 
 ## Contato
 
